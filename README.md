@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @keenar
 - 👀 I’m interested in full-stack development.
-- 🌱 I’m currently learning Django.
-- 💞️ I’m looking to collaborate on web projects.
+- 🌱 I’m currently learning Django and Machine Learning.
+- 💞️ I’m looking to collaborate on web projects. 
 - 📫 How to reach me: e-mail
 
 <!---
