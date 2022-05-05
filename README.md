@@ -5,7 +5,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- I'm an aspiring 🔭️ Full-Stack Developer and Data Scientist currently learning 🌱 **ReactJs**, **GraghQL** and **Machine Learning** 
+- I'm an aspiring 🔭️ Full-Stack Developer and Data Scientist currently learning 🌱 **ReactJs**, **GraphQL** and **Machine Learning** 
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 - I’m looking to collaborate on projects.
 <!--- ⚡ Fun fact: ... --->
