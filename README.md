@@ -34,9 +34,9 @@
   <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="40" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
  <img src="https://komarev.com/ghpvc/?username=keenar&&style=flat" align="center" />
-</p>
+</p> -->
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
