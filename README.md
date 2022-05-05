@@ -40,7 +40,7 @@
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
-<details>
+<details open>
   <summary>📊 Github Readme Stats</summary>
  </br>
  <p align="center">
