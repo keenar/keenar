@@ -1,4 +1,4 @@
-# <p align="center">️ **Hello Coders<img src="https://raw.githubusercontent.com/Karthik-Nayak98/Karthik-Nayak98/master/assets/wave.gif" alt="waving hand" width="30px">!** <br> **I'm Keenar** 🎯️🚀️</p>
+# <p align="center">️ **Hello Coders<img src="https://raw.githubusercontent.com/Karthik-Nayak98/Karthik-Nayak98/master/assets/wave.gif" alt="waving hand" width="30px">** <br> **I'm Keenar** 🎯️🚀️</p>
 
 </br>
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">
@@ -7,7 +7,7 @@
 
 - I'm an aspiring 🔭️ Full-Stack Developer and Data Scientist currently learning 🌱 **ReactJs**, **GraghQL** and **Machine Learning** 
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
-- 👯 I’m looking to collaborate on openSource projects.
+- I’m looking to collaborate on projects.
 <!--- ⚡ Fun fact: ... --->
 
 </br>
